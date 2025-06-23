@@ -17,11 +17,6 @@ A simple, interactive investment calculator built with React and Vite. Enter you
 
 ---
 
-## 🖥️ Demo
-
-![Screenshot](src/assets/investment-calculator-logo.png)
-
----
 
 ## 📦 Project Structure
 
